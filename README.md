@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently Fresh Graduate from High School
-- 🌱 I’m currently learning Front-End Engineering
-- 💬 Ask me about anything but romances
+- :school: Graduate from High School and Looking for College
+- 🌱 I’m currently Learning Front-End Engineering
+- 💬 Ask me about Anything but Romances
 - 📫 How to reach me: bandyagaadiansyah@gmail.com
 - ⚡ Fun fact: Ambievert, Accissmus, Adronitis.
 
