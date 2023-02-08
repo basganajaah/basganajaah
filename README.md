@@ -6,4 +6,4 @@
 - 📫 How to reach me: bandyagaadiansyah@gmail.com
 - ⚡ Fun fact: Ambievert, Accissmus, Adronitis.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mulia007&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/basganajaah=DenverCoder1)](https://git.io/streak-stats)
