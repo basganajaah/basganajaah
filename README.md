@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- :school: Graduate from High School and Looking for College
 - 🌱 I’m currently Learning Front-End Engineering
 - 📫 How to reach me: bandyagaadiansyah@gmail.com
 - ⚡ Fun fact: Ambievert, Accissmus, Adronitis.
