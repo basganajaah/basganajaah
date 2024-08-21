@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently Learning Front-End Engineering
+- 🌱 I’m currently Learning to be Full Stack Developer
 - 📫 How to reach me: bandyagaadiansyah@gmail.com
 - ⚡ Fun fact: Ambievert, Accissmus, Adronitis.
 
