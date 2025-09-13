@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=basganajaah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basganajaah)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basganajaah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
